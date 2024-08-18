@@ -29,9 +29,7 @@ public class Main {
             // Imprimir mensaje de éxito
             System.out.println("Datos cargados exitosamente.");
 
-//         catch (SQLException e) {
-//            e.printStackTrace(); // Manejo de excepciones
-//        }
+
     }
 }
 
